@@ -2,7 +2,7 @@
 
 A numerical toolkit for the 3D Circular Restricted Three-Body Problem (CR3BP), applied to the Earth-Moon system.
 
-Originally developed for ME2 Maths & Computing coursework at Imperial College London (2025-2026), refactored here into a tested, reusable Python package.
+Originally developed for ME2 Maths & Computing coursework at Imperial College London (2025-2026), refactored here into a tested, reusable Python package. The official marks for this project were never released but can be approximated as a high 2:1 / 1:1 (~70%) based on my overall grade for this module.
 
 ![3D CR3BP trajectories](figures/01_trajectories_3d.png)
 
