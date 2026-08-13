@@ -124,7 +124,7 @@ src/cr3bp/
 scripts/
   run_analysis.py         end-to-end script: integrates all orbits, validates, saves all figures
 notebooks/
-  CR3BP_earth_moon_analysis.ipynb   original exploratory notebook
+  CR3BP_earth_moon_analysis.ipynb   original exploratory notebook, preserved for reference -- see src/cr3bp/ for the tested, production version
 tests/
   test_dynamics.py        sanity tests: Jacobi conservation, planar reduction, Lagrange point
 figures/                  generated output figures
