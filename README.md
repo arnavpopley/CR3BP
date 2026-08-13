@@ -160,6 +160,8 @@ Szebehely, V. (1967) Theory of Orbits: The Restricted Problem of Three Bodies. A
 
 ME2 Computing lecture slides, Imperial College London, 2025-2026.
 
+This project was co-authored by Chakshu Chopra.
+
 ## License
 
 MIT, see [LICENSE](LICENSE).
