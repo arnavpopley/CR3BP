@@ -134,7 +134,7 @@ figures/                  generated output figures
 
 ```bash
 git clone <this-repo>
-cd cr3bp-earth-moon
+cd CR3BP
 pip install -r requirements.txt
 
 # Run the full analysis (integrates all 4 orbits, saves figures to ./figures/)
